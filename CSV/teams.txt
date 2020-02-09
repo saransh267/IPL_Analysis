@@ -1,0 +1,31 @@
+#RCB vs CSK 2014
+team1batorder = ['RR Rossouw','YV Takawale','VH Zol','V Kohli','Yuvraj Singh','AB de Villiers','S Rana','MA Starc','YS Chahal','R Rampaul','SB Jakati']
+team2bowlorder = ['A Nehra','S Badree','A Nehra','S Badree','R Ashwin','MM Sharma','SK Raina','MM Sharma','SK Raina','R Ashwin','SK Raina','R Ashwin','SK Raina','RA Jadeja','S Badree','RA Jadeja','R Ashwin','A Nehra','MM Sharma','A Nehra']
+team2batorder = ['DR Smith','F du Plessis','SK Raina','MS Dhoni','DJ Hussey','RA Jadeja','M Manhas','R Ashwin','MM Sharma','S Badree','A Nehra']
+team1bowlorder = ['SB Jakati','R Rampaul','SB Jakati','MA Starc','R Rampaul','MA Starc','YS Chahal','S Rana','YS Chahal','Yuvraj Singh','YS Chahal','Yuvraj Singh','SB Jakati','Yuvraj Singh','YS Chahal','Yuvraj Singh','MA Starc','SB Jakati','MA Starc','R Rampaul']
+
+
+#DC vs KKR 2013
+team1batorder = ['UBT Chand','DA Warner','DPMD Jayawardene','MC Juneja','NV Ojha','J Botha','IK Pathan','AD Russell','S Nadeem','A Nehra','UT Yadav']
+team2bowlorder = ['B Lee','JH Kallis','B Lee','JH Kallis','L Balaji','SP Narine','L Balaji','R Bhatia','L Balaji','R Bhatia','JH Kallis','R Bhatia','LR Shukla','R Bhatia','L Balaji','SP Narine','B Lee','SP Narine','B Lee','SP Narine']
+team2batorder = ['MS Bisla','G Gambhir','JH Kallis','MK Tiwary','EJG Morgan','YK Pathan','LR Shukla','R Bhatia','B Lee','SP Narine','L Balaji']
+team1bowlorder = ['IK Pathan','A Nehra','IK Pathan','A Nehra','UT Yadav','A Nehra','UT Yadav','S Nadeem','J Botha','S Nadeem','J Botha','S Nadeem','AD Russell','J Botha','S Nadeem','AD Russell','UT Yadav','AD Russell','J Botha']
+
+#RCB vs SRH 2016
+team1batorder = ['DA Warner','S Dhawan','MC Henriques','Yuvraj Singh','DJ Hooda','BCJ Cutting','NV Ojha','Bipul Sharma','B Kumar','BB Sran','Mustafizur Rahman']
+team2bowlorder = ['S Aravind','CH Gayle','S Aravind','CH Gayle','SR Watson','CH Gayle','YS Chahal','Iqbal Abdulla','YS Chahal','CJ Jordan','SR Watson','CJ Jordan','YS Chahal','S Aravind','YS Chahal','S Aravind','CJ Jordan','SR Watson','CJ Jordan','SR Watson']
+team2batorder = ['CH Gayle','V Kohli','AB de Villiers','KL Rahul','SR Watson','Sachin Baby','STR Binny','CJ Jordan','Iqbal Abdulla','S Aravind','YS Chahal']
+team1bowlorder = ['B Kumar','BB Sran','B Kumar','BB Sran','BCJ Cutting','Mustafizur Rahman','MC Henriques','BCJ Cutting','MC Henriques','Mustafizur Rahman','BCJ Cutting','Bipul Sharma','BB Sran','Bipul Sharma','MC Henriques','BCJ Cutting','Mustafizur Rahman','B Kumar','Mustafizur Rahman','B Kumar']
+
+#RR vs KKR 2012
+team1batorder = ['R Dravid', 'AM Rahane', 'SP Goswami', 'AL Menaria', 'BJ Hodge', 'OA Shah', 'KK Cooper','J Botha', 'AA Chavan', 'A Singh','SK Trivedi']
+team2bowlorder = ['B Lee','JH Kallis', 'B Lee', 'JH Kallis', 'SP Narine', 'Iqbal Abdulla', 'R Bhatia', 'YK Pathan','R Bhatia','SP Narine','R Bhatia', 'SP Narine', 'R Bhatia', 'YK Pathan','JH Kallis', 'SP Narine', 'B Lee', 'JH Kallis', 'B Lee', 'Iqbal Abdulla']
+team2batorder = ['JH Kallis', 'BB McCullum', 'G Gambhir', 'MK Tiwary', 'DB Das', 'YK Pathan', 'R Bhatia', 'LR Shukla', 'B Lee','SP Narine', 'Iqbal Abdulla']
+team1bowlorder = ['AA Chavan', 'A Singh', 'AA Chavan', 'A Singh', 'AA Chavan', 'KK Cooper', 'SK Trivedi', 'KK Cooper', 'SK Trivedi', 'J Botha', 'SK Trivedi', 'J Botha', 'SK Trivedi', 'J Botha', 'AA Chavan', 'A Singh', 'KK Cooper', 'A Singh', 'KK Cooper', 'J Botha']
+
+#SRH vs KXIP
+team1batorder = ['DA Warner','S Dhawan','GH Vihari','MC Henriques','NV Ojha','RS Bopara','A Ashish Reddy','KV Sharma','P Kumar','B Kumar','TA Boult']
+team2bowlorder = ['Sandeep Sharma','MG Johnson','Sandeep Sharma','MG Johnson','Sandeep Sharma','Anureet Singh','M Vijay','AR Patel','M Vijay','AR Patel','M Vijay','Anureet Singh','R Dhawan','MG Johnson','AR Patel','Anureet Singh','AR Patel','MG Johnson','Anureet Singh','Sandeep Sharma']
+team2batorder = ['M Vijay','M Vohra','SE Marsh','GJ Bailey','DA Miller','WP Saha','AR Patel','R Dhawan','MG Johnson','Anureet Singh','Sandeep Sharma']
+team1bowlorder = ['TA Boult','B Kumar','TA Boult','B Kumar','TA Boult','P Kumar','KV Sharma','MC Henriques','KV Sharma','MC Henriques','KV Sharma','MC Henriques','KV Sharma','P Kumar','MC Henriques','B Kumar','P Kumar','TA Boult','B Kumar','P Kumar']
+
